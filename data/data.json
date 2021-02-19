@@ -1,0 +1,30 @@
+{
+	"products":[
+		{
+		"name":"Redmi K20",
+		"image":"img/1.png",
+		"price":"27000",
+		"dprice":"24000"
+		},{
+		"name":"Samsung A30",
+		"image":"img/2.jpg",
+		"price":"17599",
+		"dprice":"14599"
+		},{
+		"name":"Onplus nord",
+		"image":"img/3.jpg",
+		"price":"30000",
+		"dprice":"27000"	
+		},{
+		"name":"Apple SE",
+		"image":"img/4.jpg",
+		"price":"35000",
+		"dprice":"30000"
+		},{
+		"name":"LG G8X",
+		"image":"img/5.jpg",
+		"price":"70000",
+		"dprice":"17000"
+		}
+	]
+}
